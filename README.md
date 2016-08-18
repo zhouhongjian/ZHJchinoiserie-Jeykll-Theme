@@ -3,7 +3,9 @@
 A chinoiserie theme of Jekyll.
 
 I may write the usage of it later.
-*If you use unix-like operation,you don't viev the following content.*
+
+**If you use unix-like operation,you don't viev the following content.**
+---
 I provide it for a test now.
 Also, it is a normal project with jekyll.
 
